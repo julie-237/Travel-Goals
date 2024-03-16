@@ -7,4 +7,7 @@ body{
     font-family: "oleo script", sans-serif;
     color: rgb(245, 243, 160);
     font-size: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px rgb(0, 0, 0);
 }
