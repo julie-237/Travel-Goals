@@ -1,3 +1,6 @@
 #hero{
     height: 800px;
+    background-image: url("/Images/places/hty-more-palmy-pejzazh-voda-12236.jpeg");
+    background-position: left;
+    background-size:cover;
 }
