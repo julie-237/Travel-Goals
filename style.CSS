@@ -45,6 +45,7 @@ margin: 0;
      }
      #highlights {
         padding: 24px;
+        background: linear-gradient(135deg, rgb(225, 247, 245), rgb(142, 216, 241));
      }
      #highlights h2 {
         text-transform: uppercase;
