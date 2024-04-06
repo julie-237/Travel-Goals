@@ -23,5 +23,20 @@ main li img {
 }
 .items-content {
    padding: 24px;
-
+   color: rgb(93, 91, 91);
+}
+.actions {
+    text-align: right;
+    margin-top: 50px;
+    
+ }
+.actions a {
+    color: rgb(36, 205, 239);
+    font-weight: bold;
+    text-decoration: none;
+    padding: 6px;
+ }
+ .actions a:hover{
+    border-radius: 2px;
+    background-color: rgb(193, 236, 251);
 }
